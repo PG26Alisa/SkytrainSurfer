@@ -1,5 +1,5 @@
 # SkytrainSurfer
----
+
 ## Overview: 
 Skytrain Surfer is an exhilarating clone of the globally renowned endless runner game, Subway Surfers. In this captivating game, players dash through a lively cityscape, evading obstacles and gathering coins. The game offers enticing graphics, seamless gameplay, and a plethora of power-ups to elevate the gaming experience.
 
@@ -24,3 +24,10 @@ Programmer. Locate suitable audio assets, such as background music, sound effect
 4. Press the play button.
 5. Utilize the mouse to swipe up, down, left, or right for movement.
 6. Collect coins and power-ups to amass a higher score.
+
+## Screenshot
+![SCR-20241015-pkee](https://github.com/user-attachments/assets/62aab7a4-50b4-4433-9f0a-b35e66bca1bb)
+<img width="439" alt="SCR-20241015-pktx" src="https://github.com/user-attachments/assets/113c87d3-ccb8-4e16-bf71-a2dd0b0cec72">
+<img width="438" alt="SCR-20241015-pllg" src="https://github.com/user-attachments/assets/020601fb-3b2a-445b-a1c3-12ffeec81ac9">
+
+
